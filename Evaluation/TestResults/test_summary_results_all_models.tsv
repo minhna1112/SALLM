@@ -1,0 +1,224 @@
+MODEL	TEMPERATURE	METHOD_NAME	TEST_RESULT	COUNT
+bigcode_starcoder	0.6	test_correctness	failure	210
+bigcode_starcoder	0.6	test_correctness	error	94
+bigcode_starcoder	0.6	test_correctness	success	50
+bigcode_starcoder	0.6	test_vulnerability	failure	185
+bigcode_starcoder	0.6	test_vulnerability	success	90
+bigcode_starcoder	0.6	test_vulnerability	error	86
+bigcode_starcoder	0.6	Compilation error	Compilation error	179
+bigcode_starcoder	0.6	error	error	18
+codegen25-7b-mono	0.4	test_correctness	failure	133
+codegen25-7b-mono	0.4	test_correctness	success	163
+codegen25-7b-mono	0.4	test_correctness	error	90
+codegen25-7b-mono	0.4	test_vulnerability	success	65
+codegen25-7b-mono	0.4	test_vulnerability	failure	241
+codegen25-7b-mono	0.4	test_vulnerability	error	83
+codegen25-7b-mono	0.4	Compilation error	Compilation error	82
+codegen25-7b-mono	0.4	error	error	18
+codegen-2B-mono	1.0	Compilation error	Compilation error	166
+codegen-2B-mono	1.0	test_correctness	failure	189
+codegen-2B-mono	1.0	test_correctness	error	107
+codegen-2B-mono	1.0	test_correctness	success	58
+codegen-2B-mono	1.0	test_vulnerability	success	86
+codegen-2B-mono	1.0	test_vulnerability	failure	182
+codegen-2B-mono	1.0	test_vulnerability	error	90
+codegen-2B-mono	1.0	error	error	19
+gpt-4	1.0	test_correctness	success	227
+gpt-4	1.0	test_correctness	failure	124
+gpt-4	1.0	test_correctness	error	31
+gpt-4	1.0	test_vulnerability	success	124
+gpt-4	1.0	test_vulnerability	failure	226
+gpt-4	1.0	test_vulnerability	error	39
+gpt-4	1.0	Compilation error	Compilation error	156
+gpt-4	1.0	error	error	20
+codegen-2B-mono	0.2	test_correctness	error	88
+codegen-2B-mono	0.2	test_correctness	success	99
+codegen-2B-mono	0.2	test_correctness	failure	185
+codegen-2B-mono	0.2	test_vulnerability	error	74
+codegen-2B-mono	0.2	test_vulnerability	success	83
+codegen-2B-mono	0.2	test_vulnerability	failure	225
+codegen-2B-mono	0.2	Compilation error	Compilation error	89
+codegen-2B-mono	0.2	error	error	20
+gpt-4	0.6	test_correctness	failure	122
+gpt-4	0.6	test_correctness	success	231
+gpt-4	0.6	test_correctness	error	28
+gpt-4	0.6	test_vulnerability	success	119
+gpt-4	0.6	test_vulnerability	failure	223
+gpt-4	0.6	test_vulnerability	error	44
+gpt-4	0.6	Compilation error	Compilation error	131
+gpt-4	0.6	error	error	20
+codegen-2B-mono	0.6	test_correctness	failure	175
+codegen-2B-mono	0.6	test_correctness	success	92
+codegen-2B-mono	0.6	test_correctness	error	97
+codegen-2B-mono	0.6	test_vulnerability	failure	193
+codegen-2B-mono	0.6	test_vulnerability	error	78
+codegen-2B-mono	0.6	test_vulnerability	success	99
+codegen-2B-mono	0.6	error	error	20
+codegen-2B-mono	0.6	Compilation error	Compilation error	109
+codegen25-7b-mono	0.8	test_correctness	success	123
+codegen25-7b-mono	0.8	test_correctness	failure	155
+codegen25-7b-mono	0.8	test_correctness	error	94
+codegen25-7b-mono	0.8	test_vulnerability	failure	221
+codegen25-7b-mono	0.8	test_vulnerability	success	82
+codegen25-7b-mono	0.8	test_vulnerability	error	74
+codegen25-7b-mono	0.8	error	error	19
+codegen25-7b-mono	0.8	Compilation error	Compilation error	113
+gpt-3.5-turbo	0.2	test_correctness	failure	111
+gpt-3.5-turbo	0.2	test_correctness	error	47
+gpt-3.5-turbo	0.2	test_correctness	success	208
+gpt-3.5-turbo	0.2	test_vulnerability	failure	227
+gpt-3.5-turbo	0.2	test_vulnerability	error	66
+gpt-3.5-turbo	0.2	test_vulnerability	success	74
+gpt-3.5-turbo	0.2	Compilation error	Compilation error	178
+gpt-3.5-turbo	0.2	error	error	20
+codegen-2B-mono	0.4	test_correctness	failure	178
+codegen-2B-mono	0.4	test_correctness	success	109
+codegen-2B-mono	0.4	test_correctness	error	84
+codegen-2B-mono	0.4	test_vulnerability	failure	213
+codegen-2B-mono	0.4	test_vulnerability	success	88
+codegen-2B-mono	0.4	test_vulnerability	error	77
+codegen-2B-mono	0.4	Compilation error	Compilation error	91
+codegen-2B-mono	0.4	error	error	20
+codegen25-7b-mono	1.0	Compilation error	Compilation error	208
+codegen25-7b-mono	1.0	test_correctness	success	79
+codegen25-7b-mono	1.0	test_correctness	failure	165
+codegen25-7b-mono	1.0	test_correctness	error	106
+codegen25-7b-mono	1.0	test_vulnerability	failure	187
+codegen25-7b-mono	1.0	test_vulnerability	success	74
+codegen25-7b-mono	1.0	test_vulnerability	error	94
+codegen25-7b-mono	1.0	error	error	17
+gpt-3.5-turbo	1.0	test_correctness	success	188
+gpt-3.5-turbo	1.0	test_correctness	failure	118
+gpt-3.5-turbo	1.0	test_correctness	error	38
+gpt-3.5-turbo	1.0	test_vulnerability	success	74
+gpt-3.5-turbo	1.0	test_vulnerability	failure	219
+gpt-3.5-turbo	1.0	test_vulnerability	error	53
+gpt-3.5-turbo	1.0	Compilation error	Compilation error	246
+gpt-3.5-turbo	1.0	error	error	20
+gpt-3.5-turbo	0.6	test_correctness	failure	114
+gpt-3.5-turbo	0.6	test_correctness	success	204
+gpt-3.5-turbo	0.6	test_correctness	error	44
+gpt-3.5-turbo	0.6	test_vulnerability	success	90
+gpt-3.5-turbo	0.6	test_vulnerability	failure	214
+gpt-3.5-turbo	0.6	test_vulnerability	error	58
+gpt-3.5-turbo	0.6	Compilation error	Compilation error	194
+gpt-3.5-turbo	0.6	error	error	20
+gpt-3.5-turbo	0.8	test_correctness	failure	121
+gpt-3.5-turbo	0.8	test_correctness	success	193
+gpt-3.5-turbo	0.8	test_correctness	error	43
+gpt-3.5-turbo	0.8	test_vulnerability	success	87
+gpt-3.5-turbo	0.8	test_vulnerability	failure	211
+gpt-3.5-turbo	0.8	test_vulnerability	error	60
+gpt-3.5-turbo	0.8	Compilation error	Compilation error	226
+gpt-3.5-turbo	0.8	error	error	20
+bigcode_starcoder	0.4	Compilation error	Compilation error	153
+bigcode_starcoder	0.4	test_correctness	error	90
+bigcode_starcoder	0.4	test_correctness	failure	210
+bigcode_starcoder	0.4	test_correctness	success	62
+bigcode_starcoder	0.4	test_vulnerability	error	79
+bigcode_starcoder	0.4	test_vulnerability	failure	190
+bigcode_starcoder	0.4	test_vulnerability	success	98
+bigcode_starcoder	0.4	error	error	18
+codegen25-7b-mono	0.6	test_correctness	failure	148
+codegen25-7b-mono	0.6	test_correctness	success	159
+codegen25-7b-mono	0.6	test_correctness	error	79
+codegen25-7b-mono	0.6	test_vulnerability	failure	243
+codegen25-7b-mono	0.6	test_vulnerability	success	82
+codegen25-7b-mono	0.6	test_vulnerability	error	64
+codegen25-7b-mono	0.6	Compilation error	Compilation error	74
+codegen25-7b-mono	0.6	error	error	20
+gpt-3.5-turbo	0.4	Compilation error	Compilation error	199
+gpt-3.5-turbo	0.4	test_correctness	success	211
+gpt-3.5-turbo	0.4	test_correctness	failure	119
+gpt-3.5-turbo	0.4	test_correctness	error	36
+gpt-3.5-turbo	0.4	test_vulnerability	success	99
+gpt-3.5-turbo	0.4	test_vulnerability	failure	214
+gpt-3.5-turbo	0.4	test_vulnerability	error	54
+gpt-3.5-turbo	0.4	error	error	20
+gpt-4	0.2	test_correctness	failure	122
+gpt-4	0.2	test_correctness	success	229
+gpt-4	0.2	test_correctness	error	32
+gpt-4	0.2	test_vulnerability	success	116
+gpt-4	0.2	test_vulnerability	failure	228
+gpt-4	0.2	test_vulnerability	error	47
+gpt-4	0.2	Compilation error	Compilation error	117
+gpt-4	0.2	error	error	20
+gpt-4	0.0	test_correctness	failure	120
+gpt-4	0.0	test_correctness	success	240
+gpt-4	0.0	test_correctness	error	30
+gpt-4	0.0	test_vulnerability	success	93
+gpt-4	0.0	test_vulnerability	failure	262
+gpt-4	0.0	test_vulnerability	error	45
+gpt-4	0.0	Compilation error	Compilation error	109
+gpt-4	0.0	error	error	20
+bigcode_starcoder	0.2	test_correctness	success	46
+bigcode_starcoder	0.2	test_correctness	failure	217
+bigcode_starcoder	0.2	test_correctness	error	93
+bigcode_starcoder	0.2	test_vulnerability	failure	197
+bigcode_starcoder	0.2	test_vulnerability	success	80
+bigcode_starcoder	0.2	test_vulnerability	error	87
+bigcode_starcoder	0.2	Compilation error	Compilation error	150
+bigcode_starcoder	0.2	error	error	19
+codegen25-7b-mono	0.2	test_correctness	success	171
+codegen25-7b-mono	0.2	test_correctness	failure	141
+codegen25-7b-mono	0.2	test_correctness	error	84
+codegen25-7b-mono	0.2	test_vulnerability	failure	253
+codegen25-7b-mono	0.2	test_vulnerability	success	70
+codegen25-7b-mono	0.2	test_vulnerability	error	77
+codegen25-7b-mono	0.2	Compilation error	Compilation error	72
+codegen25-7b-mono	0.2	error	error	15
+codegen-2B-mono	0.0	test_correctness	error	87
+codegen-2B-mono	0.0	test_correctness	failure	191
+codegen-2B-mono	0.0	test_correctness	success	102
+codegen-2B-mono	0.0	test_vulnerability	error	74
+codegen-2B-mono	0.0	test_vulnerability	failure	230
+codegen-2B-mono	0.0	test_vulnerability	success	86
+codegen-2B-mono	0.0	Compilation error	Compilation error	60
+codegen-2B-mono	0.0	error	error	20
+codegen-2B-mono	0.8	test_correctness	success	79
+codegen-2B-mono	0.8	test_correctness	error	92
+codegen-2B-mono	0.8	test_correctness	failure	191
+codegen-2B-mono	0.8	test_vulnerability	success	97
+codegen-2B-mono	0.8	test_vulnerability	error	77
+codegen-2B-mono	0.8	test_vulnerability	failure	194
+codegen-2B-mono	0.8	Compilation error	Compilation error	132
+codegen-2B-mono	0.8	error	error	16
+bigcode_starcoder	0.8	Compilation error	Compilation error	209
+bigcode_starcoder	0.8	test_correctness	failure	200
+bigcode_starcoder	0.8	test_correctness	error	98
+bigcode_starcoder	0.8	test_correctness	success	40
+bigcode_starcoder	0.8	test_vulnerability	failure	171
+bigcode_starcoder	0.8	test_vulnerability	error	82
+bigcode_starcoder	0.8	test_vulnerability	success	91
+bigcode_starcoder	0.8	error	error	17
+gpt-4	0.4	test_correctness	success	240
+gpt-4	0.4	test_correctness	error	30
+gpt-4	0.4	test_correctness	failure	121
+gpt-4	0.4	test_vulnerability	failure	251
+gpt-4	0.4	test_vulnerability	error	45
+gpt-4	0.4	test_vulnerability	success	100
+gpt-4	0.4	Compilation error	Compilation error	118
+gpt-4	0.4	error	error	20
+gpt-3.5-turbo	0.0	test_correctness	success	221
+gpt-3.5-turbo	0.0	test_correctness	failure	108
+gpt-3.5-turbo	0.0	test_correctness	error	51
+gpt-3.5-turbo	0.0	test_vulnerability	failure	223
+gpt-3.5-turbo	0.0	test_vulnerability	error	65
+gpt-3.5-turbo	0.0	test_vulnerability	success	92
+gpt-3.5-turbo	0.0	Compilation error	Compilation error	150
+gpt-3.5-turbo	0.0	error	error	20
+bigcode_starcoder	1.0	test_correctness	failure	209
+bigcode_starcoder	1.0	test_correctness	success	38
+bigcode_starcoder	1.0	test_correctness	error	92
+bigcode_starcoder	1.0	test_vulnerability	failure	157
+bigcode_starcoder	1.0	test_vulnerability	error	93
+bigcode_starcoder	1.0	test_vulnerability	success	96
+bigcode_starcoder	1.0	Compilation error	Compilation error	259
+bigcode_starcoder	1.0	error	error	14
+gpt-4	0.8	test_correctness	failure	36
+gpt-4	0.8	test_correctness	error	19
+gpt-4	0.8	test_correctness	success	124
+gpt-4	0.8	test_vulnerability	success	65
+gpt-4	0.8	test_vulnerability	error	22
+gpt-4	0.8	test_vulnerability	failure	96
+gpt-4	0.8	Compilation error	Compilation error	123
